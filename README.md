@@ -4,4 +4,4 @@
 - Discord server: https://discord.gg/m93uMY4c
 ## About me
 ### Intrested in:
-### C++ and LUA
+- C++ and LUA
