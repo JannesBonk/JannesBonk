@@ -7,6 +7,6 @@
 - Hired
 - Driving an Audi A6 2008
 ### Intrested in:
-- C++
-- LUA
+- C++ coding
+- LUA coding
 - Reverse engineering
