@@ -1,7 +1,5 @@
 ### Socials:
-- Discord: JannesBonk#7353
-- [YouTube](https://youtube.com/@janneshvh)
-- [Discord server](https://discord.gg/m93uMY4c)
+[YouTube](https://youtube.com/@janneshvh) [Discord server](https://discord.gg/m93uMY4c) [Discord](https://discord.com/users/751351900255027300)
 ### About me:
 - Age: 19
 - Hired
