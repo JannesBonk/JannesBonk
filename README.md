@@ -1,6 +1,5 @@
 # Hi there!
 - My name is Nechita Jannes
-- I am a 19 year old, studying at Colegiul Național Ștefan cel Mare
 - Enjoying life in Romania 🇷🇴
 
 # Socials:
